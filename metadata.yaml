@@ -1,0 +1,32 @@
+_repo: Compendio-del-derecho-publico-romano_68220
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Montero, Pedro Dorado
+    gutenberg_agent_id: '54660'
+    url: http://www.gutenberg.org/2009/agents/54660
+creator:
+  author:
+    agent_name: Mommsen, Teodoro
+    gutenberg_agent_id: '54659'
+    url: http://www.gutenberg.org/2009/agents/54659
+description: ''
+gutenberg_issued: '2022-06-01'
+identifiers:
+  gutenberg: '68220'
+language: es
+pgterms:marc904: http://bdh.bne.es/bnesearch/detalle/bdh0000251094
+pgterms:marc905: 20201205104945mommsen
+pgterms:marc906: '1893'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box and the Online Distributed Proofreading Team at
+  https://www.pgdp.net. (This file was produced from images generously made available
+  by Biblioteca Digital Hispánica/Biblioteca Nacional de España.)
+publication_note: Spain :La España Moderna,1893.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Compendio del derecho público romano
+url: http://www.gutenberg.org/ebooks/68220
