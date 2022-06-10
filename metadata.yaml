@@ -5,12 +5,17 @@ contributor:
     agent_name: Montero, Pedro Dorado
     gutenberg_agent_id: '54660'
     url: http://www.gutenberg.org/2009/agents/54660
+covers:
+- cover_type: archival
+  image_path: 68220-h/images/cover.jpg
 creator:
   author:
     agent_name: Mommsen, Teodoro
     gutenberg_agent_id: '54659'
     url: http://www.gutenberg.org/2009/agents/54659
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68220#Compendio-del-derecho-publico-romano
 gutenberg_issued: '2022-06-01'
 identifiers:
   gutenberg: '68220'
